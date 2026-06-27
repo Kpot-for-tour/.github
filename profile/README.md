@@ -19,6 +19,11 @@
 [![React Router](https://img.shields.io/badge/React%20Router-7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
 [![CSS Modules](https://img.shields.io/badge/CSS%20Modules-1B1B1B?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/css-modules/css-modules)
 
+[![Java](https://img.shields.io/badge/Java-25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring](https://img.shields.io/badge/Spring-4.1.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+
 </div>
 
 ---
@@ -59,9 +64,12 @@ For global fans, *being a fan* and *planning a trip to Korea* are the same dream
 - **Pretendard Variable** typeface
 - Custom **i18n** layer (KO / JA / EN)
 
-**Backend**
+**Backend** *(separate repository)*
 
-- Spring Boot API *(separate repository)*
+- **Java 25** + **Spring 4.1.0**
+- **JPA** for persistence
+- **MySQL** database
+- Deployed on **AWS**
 
 ---
 
