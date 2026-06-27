@@ -93,8 +93,10 @@ A warm signature red (`#F74C4C`) sets the tone: energetic, friendly, and unmista
 
 <div align="center">
 
-| 원순재 · Sunjae Won | 김민정 · Minjeong Kim | 양나영 · Nayeong Yang | 이동휘 · Donghwi Lee |
-|:---:|:---:|:---:|:---:|
+| Role | Members |
+|:---:|:---:|
+| 💻 **Developers** | 원순재 · Sunjae Won &nbsp;·&nbsp; 김민정 · Minjeong Kim |
+| 🎨 **Designers** | 이동휘 · Donghwi Lee &nbsp;·&nbsp; 양나영 · Nayeong Yang |
 
 </div>
 
