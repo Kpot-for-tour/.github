@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="KPOT — Where fandom becomes a journey" width="720" />
+<img src="./assets/banner.png" alt="KPOT — Where fandom becomes a journey" width="100%" />
 
 # KPOT
 
