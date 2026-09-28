@@ -67,7 +67,7 @@ For global fans, *being a fan* and *planning a trip to Korea* are the same dream
 
 <br/><br/>
 
-**Mobile** — a separate mobile component set for every screen · shown here in **EN · EN · KO · JA** (Chinese added since)
+**Mobile** — a separate mobile component set for every screen · Home, Map, Spot Detail and Artist in English
 
 <img src="./assets/screens/mobile.png" alt="KPOT mobile screens" width="900" />
 
